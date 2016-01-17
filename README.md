@@ -5,7 +5,7 @@ Análise e comparação de tempo, número de iterações e comparações entre 1
 
 #### Integrantes
 - Bruno Tomé
-- Cláudio Menezes
+- Matheus Calixto
 
 #### Instruções Para Compilar
 
